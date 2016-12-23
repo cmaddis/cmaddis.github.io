@@ -10,7 +10,7 @@ baseurl:             "https://cmaddis.github.io"
 
 pages_list:       
   Archive: '/archive'
-#  About: '/about'
+  About: '/about'
 
 # Assets
 #

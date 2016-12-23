@@ -2,29 +2,5 @@
 layout: page
 title: About
 ---
-
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+![pic](assets/portrait.png)]
+I am a DPhil student in the Department of Statistics at the University of Oxford supervised by [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](http://www.stats.ox.ac.uk/~doucet/). I also spend two days a week as a Research Scientist at [DeepMind](https://deepmind.com/). Previously, I received my MSc. from the University of Toronto supervised by [Geoffrey Hinton](http://www.cs.toronto.edu/~hinton/). I was one of the primary contributors to the [AlphaGo] project. My research interests are probabilistic inference and Monte Carlo methods. My other interests include neural networks, learning in non-human animals, and probability theory.
