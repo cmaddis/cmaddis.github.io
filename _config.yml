@@ -9,8 +9,8 @@ paginate:            1
 baseurl:             "https://cmaddis.github.io"
 
 pages_list:       
-  About: '/about'
   Archive: '/archive'
+#  About: '/about'
 
 # Assets
 #
