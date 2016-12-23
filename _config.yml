@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://cmaddis.github.io
+title:               Chris J. Maddison
+tagline:             Test
+url:                 https://cmaddis.github.io
 paginate:            1
-baseurl:             "http://cmaddis.github.io/"
+baseurl:             "https://cmaddis.github.io/"
 
 # Assets
 #
@@ -17,14 +17,13 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Chris J. Maddison
+  url:               http://www.stats.ox.ac.uk/~cmaddis/
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/cmaddis.github.io/
 
 # Gems
 gems:
