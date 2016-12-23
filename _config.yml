@@ -6,7 +6,7 @@ title:               Chris J. Maddison
 tagline:             Test
 url:                 https://cmaddis.github.io
 paginate:            1
-baseurl:             "https://cmaddis.github.io/"
+baseurl:             "https://cmaddis.github.io"
 
 # Assets
 #
