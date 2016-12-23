@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+permalink: short-urls-jekyll
 ---
 
 
