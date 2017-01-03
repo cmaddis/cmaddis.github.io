@@ -3,7 +3,8 @@ layout: post
 title: Gumbel Machinery
 author: Chris J. Maddison and Danny Tarlow
 permalink: gumbel-machinery
-comments: True
+comments: true
+use_math: true
 ---
 
 Recently, Laurent Dinh wrote a great [blogpost](https://laurent-dinh.github.io/2016/11/22/gumbel-max.html) asking (and answering) whether it was possible to invert the Gumbel-Max trick: given a sample from a discrete random variable, can we sample from the Gumbels that produced it?
