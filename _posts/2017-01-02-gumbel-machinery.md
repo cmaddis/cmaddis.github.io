@@ -17,9 +17,9 @@ uniform = np.random.rand(5)
 gumbels = -np.log(-np.log(uniform)) + np.log(alpha)
 K = np.argmax(gumbels)
 {% endhighlight %}
-The trick is to show that `K` sampled in such a way produces a sample from the discrete distribution proportional to `alpha[k]`. In mathematical notation,
+The trick is to show that `K` sampled in such a way produces a sample from the discrete distribution proportional to `alpha[i]`. In mathematical notation,
 
-$$\mathbb{P}(K = k) = \frac{\alpha_k}{Z}$$
+$$\mathbb{P}(K = i) = \frac{\alpha_i}{Z}$$
 
 where $$\alpha_i > 0$$ and $$Z = \sum_i \alpha_i$$. We will get to the proof, but for now Laurent's question was simply, given `K`, what is the distribution over `gumbels`?
 
