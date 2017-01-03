@@ -126,7 +126,7 @@ K = np.argmax(gumbels)
 
 #### 1. Gumbel-Max Trick.
 
-`K` is distributed as $$\mathbb{P}(K = k) = \alpha_k / Z$$, since
+`K` is distributed as $$\mathbb{P}(K = i) = \alpha_i / Z$$, since
 
 $${\color{red} \underbrace{\frac{\alpha_K}{Z}}_{p(K)}} f_{\log Z}(g_K) \prod_{i \neq K} \frac{f_{\log \alpha_i}(g_i) [g_K \geq g_i]}{F_{\log \alpha_i}(g_K)}$$
 
