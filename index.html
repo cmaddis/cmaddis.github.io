@@ -11,7 +11,9 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+	  {% if post.author != empty %}
+	  	<div class="post-author">{{ post.author }}</div>
+	  {% endif %}
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
     {{ post.content }}
