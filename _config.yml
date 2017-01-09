@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Chris J. Maddison
-tagline:             Inference
+tagline:             Blog
 url:                 https://cmaddis.github.io
 paginate:            1
 baseurl:             "https://cmaddis.github.io"
