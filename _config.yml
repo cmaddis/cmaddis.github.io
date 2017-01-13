@@ -9,9 +9,10 @@ paginate:            1
 baseurl:             "https://cmaddis.github.io"
 
 pages_list:       
-  Archive: '/archive'
   About: '/about'
+  Publications: 'https://scholar.google.ca/citations?user=WjCG3owAAAAJ'
   Academic: 'http://www.stats.ox.ac.uk/~cmaddis/'
+  Archive: '/archive'
 
 # Assets
 #
