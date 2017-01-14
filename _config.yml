@@ -10,9 +10,9 @@ baseurl:             "https://cmaddis.github.io"
 
 pages_list:       
   About: '/about'
-  Publications: 'https://scholar.google.ca/citations?user=WjCG3owAAAAJ'
-  Academic: 'http://www.stats.ox.ac.uk/~cmaddis/'
   Archive: '/archive'
+  Academic: 'http://www.stats.ox.ac.uk/~cmaddis/'
+  Publications: 'https://scholar.google.ca/citations?user=WjCG3owAAAAJ'
 
 # Assets
 #
